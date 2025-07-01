@@ -1,8 +1,12 @@
-# Resume Builder (Spring boot)
+# Resume Builder (Spring Boot)
 
-Resume builder application provides interactive user interface to collect and provide a downloadable PDF version of his/her resume. This project provides the API services for the front end project (https://github.com/cyela/Resume-builder-UI) to create and send pdf version resume
-* Technologies
-	* Spring boot
-	* iText Pdf
-	* Java 1.8 
+Customized by Mahesh Reddy  
+Original inspiration: [cyela's project](https://github.com/cyela/Resume-Builder)
 
+This is a Spring Boot application that generates resumes in PDF format using iText. I added deployment support and plan to improve the PDF styling and input structure.
+
+## Tech Stack
+- Java 17
+- Spring Boot
+- Maven
+- iText PDF
